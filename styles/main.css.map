@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA;EACE,eAAe,EAAA;;AAGjB;EACE,kBAAkB,EAAA","file":"main.css","sourcesContent":["th {\n  cursor: pointer;\n}\n\nth:hover {\n  background: yellow;\n}\n"]}
